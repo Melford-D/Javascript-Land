@@ -2,7 +2,7 @@
 
 Build ECommerce Website Like Amazon by Next.js
 
-- [Demo Website](https://nextjs-amazona-final.vercel.app)
+- [Demo Website Coming Soon](https://)
 
 ## What you will learn
 
