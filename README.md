@@ -46,10 +46,10 @@ Open (http://localhost:3000)
    - [x] 2. add layout component
    - [x] 3. add header, main and footer
 4. Add Styles
-   - [] 1. add css to header, main and footer
+   - [x] 1. add css to header, main and footer
 5. Fix SSR Issue on MaterialUI
-   - [] 1. add \_documents.js
-   - [] 2. add code to fix styling issue
+   - [x] 1. add \_documents.js
+   - [x] 2. add code to fix styling issue
 6. List Products
    - [] 1. add data.js
    - [] 2. add images
