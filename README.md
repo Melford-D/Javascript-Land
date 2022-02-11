@@ -51,9 +51,9 @@ Open (http://localhost:3000)
    - [x] 1. add \_documents.js
    - [x] 2. add code to fix styling issue
 6. List Products
-   - [] 1. add data.js
-   - [] 2. add images
-   - [] 3. render products
+   - [x] 1. add data.js
+   - [x] 2. add images
+   - [x] 3. render products
 7. Add header links
    - [] 1. Add cart and login link
    - [] 2. use next/link and mui/link
