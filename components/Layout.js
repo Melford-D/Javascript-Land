@@ -6,16 +6,16 @@ export default function Layout({ children }) {
   return (
     <div>
       <Head>
-        <title>Next Amazona</title>
+        <title>Javascript Land</title>
       </Head>
       <AppBar position="static">
         <Toolbar>
-          <Typography>amazona</Typography>
+          <Typography>Javascript Land Projects</Typography>
         </Toolbar>
       </AppBar>
       <Container>{children}</Container>
       <footer>
-        <Typography>All rights reserved. Next Amazona</Typography>
+        <Typography>All rights reserved.</Typography>
       </footer>
     </div>
   );
