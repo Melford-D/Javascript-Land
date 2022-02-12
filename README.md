@@ -59,9 +59,9 @@ Open (http://localhost:3000)
    - [x] 2. use next/link and mui/link
    - [x] 3. add css classes for header links
 8. Route Product Details Page
-   - [] 1. Make Product cards linkable
-   - [] 2. Create /product/[slug] route
-   - [] 3. find product based on slug
+   - [x] 1. Make Product cards linkable
+   - [x] 2. Create /product/[slug] route
+   - [x] 3. find product based on slug
 9. Create Product Details Page
    - [] 1. Create 3 columns
    - [] 2. show image in first column
