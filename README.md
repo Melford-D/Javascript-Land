@@ -69,10 +69,10 @@ Open (http://localhost:3000)
    - [x] 4. show add to cart action on third column
    - [x] 5. add styles
 10. Add MaterialUI Theme
-    - [] 1. create theme
-    - [] 2. use theme provider
-    - [] 3. add h1 and h2 styles
-    - [] 4. set theme colors
+    - [x] 1. create theme
+    - [x] 2. use theme provider
+    - [x] 3. add h1 and h2 styles
+    - [x] 4. set theme colors
 11. Create Application Context
     - [] 1. define context and reducer
     - [] 2. set darkMode flag
