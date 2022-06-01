@@ -43,7 +43,7 @@ export default function Layout({ title, description, children }) {
     },
   });
   const classes = useStyles();
-  const darkModeChangeHnadler = () => {
+  const darkModeChangeHandler = () => {
     dispatch({ type: darkMode ? "DARK_MODE_OFF" : "DARK_MODE_ON" });
     const newDarkMode = !darkMode;
     jsCookie.set("darkMode", newDarkMode ? "ON" : "OFF");
@@ -67,7 +67,7 @@ export default function Layout({ title, description, children }) {
             <div>
               <Switch
                 checked={darkMode}
-                onChange={darkModeChangeHnadler}
+                onChange={darkModeChangeHandler}
               ></Switch>
               <NextLink href="/cart" passHref>
                 <Link style={{ textDecoration: "none", color: "#fff" }}>
