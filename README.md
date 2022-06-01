@@ -74,10 +74,10 @@ Open (http://localhost:3000)
     - [x] 3. add h1 and h2 styles
     - [x] 4. set theme colors
 11. Create Application Context
-    - [] 1. define context and reducer
-    - [] 2. set darkMode flag
-    - [] 3. create store provider
-    - [] 4. use it on layout
+    - [x] 1. define context and reducer
+    - [x] 2. set darkMode flag
+    - [x] 3. create store provider
+    - [x] 4. use it on layout
 12. Connect To MongoDB
     - [] 1. install mongodb
     - [] 2. install mongoose
