@@ -79,10 +79,10 @@ Open (http://localhost:3000)
     - [x] 3. create store provider
     - [x] 4. use it on layout
 12. Connect To MongoDB
-    - [] 1. install mongodb
-    - [] 2. install mongoose
-    - [] 3. define connect and disconnect
-    - [] 4. use it in the api
+    - [x] 1. install mongodb
+    - [x] 2. install mongoose
+    - [x] 3. define connect and disconnect
+    - [x] 4. use it in the api
 13. Create Products API
     - [] 1. create product model
     - [] 2. seed sample data
