@@ -84,10 +84,10 @@ Open (http://localhost:3000)
     - [x] 3. define connect and disconnect
     - [x] 4. use it in the api
 13. Create Products API
-    - [] 1. create product model
-    - [] 2. seed sample data
-    - [] 3. create /api/products/index.js
-    - [] 4. create product api
+    - [x] 1. create product model
+    - [x] 2. seed sample data
+    - [x] 3. create /api/products/index.js
+    - [x] 4. create product api
 14. Fetch Products From API
     - [] 1. use getServerSideProps()
     - [] 2. get product from db
