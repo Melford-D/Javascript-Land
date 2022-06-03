@@ -89,10 +89,10 @@ Open (http://localhost:3000)
     - [x] 3. create /api/products/index.js
     - [x] 4. create product api
 14. Fetch Products From API
-    - [] 1. use getServerSideProps()
-    - [] 2. get product from db
-    - [] 3. return data as props
-    - [] 4. use it in product screen too
+    - [x] 1. use getServerSideProps()
+    - [x] 2. get product from db
+    - [x] 3. return data as props
+    - [x] 4. use it in product screen too
 15. Implement Add to cart
     - [] 1. define cart in context
     - [] 2. dispatch add to cart action
