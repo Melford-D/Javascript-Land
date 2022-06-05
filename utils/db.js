@@ -15,12 +15,18 @@ async function connect() {
     }
     await mongoose.disconnect();
   }
-  const db = mongoose.connect(process.env.MONGODB_URI, {
+  const options = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-  });
+  };
+  const uri = process.env.MONGODB_URI;
+  const db = mongoose.connect(uri, options);
   console.log("new connection");
-  connection.isConnected = db.connections[0].readyState;
+  connection.isConnected = db;
+
+  if (!uri) {
+    throw new Error("Add your Mongo URI to the .env file");
+  }
 }
 
 async function disconnect() {
